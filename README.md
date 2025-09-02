@@ -10,12 +10,7 @@ Passionate about building user-centric applications that make a difference. I sp
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/michael-jola-moses">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="LinkedIn" width="100" height="28" style="vertical-align: middle;">
-</a>
-<a href="mailto:mikejolamoses@gmail.com">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Email" width="28" height="28" style="vertical-align: middle; margin-left: 8px;">
-</a>
+[LinkedIn](https://www.linkedin.com/in/michael-jola-moses) | [Email](mailto:mikejolamoses@gmail.com)
 
 </div>
 
