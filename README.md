@@ -62,7 +62,7 @@ An intelligent todo list that adapts and responds to your workflow. Built with c
 
 ---
 
-<div align="center">
+<!-- <div align="center">
 
 </div>
 
@@ -145,7 +145,7 @@ A mobile-first e-commerce application built with Ionic React, featuring native-l
 
 </td>
 </tr>
-</table>
+</table> -->
 
 &nbsp;
 
