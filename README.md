@@ -34,29 +34,29 @@ Passionate about building user-centric applications that make a difference. I sp
 </div>
 
 <div align="center">
-  <a href="https://mezclaroutfits.com">
-    <img src="https://via.placeholder.com/800x400/1f2937/ffffff?text=Mezclar+Outfits" alt="Mezclar Outfits Screenshot" width="100%" style="border-radius: 10px; margin-bottom: 20px;">
+  <a href="https://prompt-list.vercel.app/">
+    <img src="images/prompt-list.png" alt="Prompt List Screenshot" width="100%" style="border-radius: 10px; margin-bottom: 20px;">
   </a>
 </div>
 
 <div align="center">
 
-**[Mezclar Outfits](https://mezclaroutfits.com)** - _Full-Stack E-commerce Platform_
+**[Prompt List](https://prompt-list.vercel.app/)** - _AI-Powered Productivity Platform_
 
-A comprehensive e-commerce solution built with modern web technologies, featuring user authentication, payment processing, and inventory management.
+An intelligent todo list that adapts and responds to your workflow. Built with cutting-edge AI integration, it provides smart task suggestions and intelligent search to help you manage and conquer your tasks with ease.
 
 **Key Features:**
 
-- 🔐 User authentication & authorization
-- 💳 Secure payment processing
-- 📱 Responsive design for all devices
-- 🛒 Shopping cart & checkout flow
-- 📊 Admin dashboard for inventory management
+- 🤖 AI-powered task management & suggestions
+- 🔍 Intelligent search functionality
+- 📊 Smart progress tracking & analytics
+- ⚡ Real-time updates & synchronization
+- 🎯 Context-aware task recommendations
 
-**Tech Stack:** `NextJS` `TailwindCSS` `MongoDB` `AWS Lambda` `AWS API Gateway`
+**Tech Stack:** `NextJS` `TypeScript` `TailwindCSS` `AI Integration`
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://mezclaroutfits.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JM-M/mezclar-outfits)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://prompt-list.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JM-M/prompt-list)
 
 </div>
 
@@ -72,24 +72,24 @@ A comprehensive e-commerce solution built with modern web technologies, featurin
 
 <div align="center">
 
-**[Prompt List](https://prompt-list.vercel.app/)**
+**[Mezclar Outfits](https://mezclaroutfits.com)**
 
-<img src="https://via.placeholder.com/350x220/10b981/ffffff?text=Prompt+List" alt="Prompt List Screenshot" width="100%" style="border-radius: 8px; margin-bottom: 15px;">
+<img src="https://via.placeholder.com/350x220/1f2937/ffffff?text=Mezclar+Outfits" alt="Mezclar Outfits Screenshot" width="100%" style="border-radius: 8px; margin-bottom: 15px;">
 
-An AI-powered todo list that intelligently responds and adapts as you work. Create, manage, and conquer your tasks with smart assistance.
+A comprehensive e-commerce solution built with modern web technologies, featuring user authentication, payment processing, and inventory management.
 
 **Features:**
 
-- 🤖 AI-powered task management
-- 📝 Smart task suggestions
-- 🔍 Intelligent search functionality
-- 📊 Progress tracking
-- ⚡ Real-time updates
+- 🔐 User authentication & authorization
+- 💳 Secure payment processing
+- 📱 Responsive design for all devices
+- 🛒 Shopping cart & checkout flow
+- 📊 Admin dashboard for inventory management
 
-**Tech:** `NextJS` `TypeScript` `TailwindCSS`
+**Tech:** `NextJS` `TailwindCSS` `MongoDB` `AWS Lambda` `AWS API Gateway`
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://prompt-list.vercel.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JM-M/prompt-list)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://mezclaroutfits.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JM-M/mezclar-outfits)
 
 </div>
 
@@ -125,7 +125,7 @@ A clean and modern photography portfolio showcasing beautiful image galleries wi
 
 **[Ion Commerce](https://ion-commerce.vercel.app/)**
 
-<img src="https://via.placeholder.com/400x250/3880ff/ffffff?text=Ion+Commerce" alt="Ion Commerce Screenshot" width="100%" style="border-radius: 8px; margin-bottom: 15px;">
+<img src="https://via.placeholder.com/350x220/3880ff/ffffff?text=Ion+Commerce" alt="Ion Commerce Screenshot" width="100%" style="border-radius: 8px; margin-bottom: 15px;">
 
 A mobile-first e-commerce application built with Ionic React, featuring native-like performance and seamless payment integration.
 
