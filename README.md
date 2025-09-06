@@ -29,29 +29,32 @@ Passionate about building user-centric applications that make a difference. I sp
 </div>
 
 <div align="center">
-  <a href="https://prompt-list.vercel.app/">
-    <img src="images/prompt-list.png" alt="Prompt List Screenshot" width="100%" style="border-radius: 10px; margin-bottom: 20px;">
+  <a href="https://zap-quiz-six.vercel.app/">
+    <img src="images/zap-quiz.png" alt="Zap Quiz Screenshot" width="100%" style="border-radius: 10px; margin-bottom: 20px;">
   </a>
 </div>
 
 <div align="center">
 
-**[Prompt List](https://prompt-list.vercel.app/)** - _AI-Powered Productivity Platform_
+**[Zap Quiz](https://zap-quiz-six.vercel.app/)** - _Modern Kahoot Alternative_
 
-An intelligent todo list that adapts and responds to your workflow. Built with cutting-edge AI integration, it provides smart task suggestions and intelligent search to help you manage and conquer your tasks with ease.
+A well-designed, high-energy quiz platform that transforms learning, meetings, and events into engaging interactive experiences. Built with a modern tech stack and real-time capabilities, it provides a seamless quiz creation and participation experience.
 
 **Key Features:**
 
-- 🤖 AI-powered task management & suggestions
-- 🔍 Intelligent search functionality
-- 📊 Smart progress tracking & analytics
-- ⚡ Real-time updates & synchronization
-- 🎯 Context-aware task recommendations
+- 🎮 Interactive real-time quiz games
+- 📝 Easy quiz creation and management
+- 👥 Multi-player support with live scoring
+- ⚡ Real-time synchronization and updates
+- 🎨 Modern, responsive UI/UX design
+- 🔐 User authentication and session management
+- 📊 Live leaderboards and analytics
 
-**Tech Stack:** `NextJS` `TypeScript` `TailwindCSS` `AI Integration`
+**Tech Stack:** `NextJS` `TypeScript` `TailwindCSS` `NestJS` `WebSocket` `Postgres`
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://prompt-list.vercel.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JM-M/prompt-list)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://zap-quiz-six.vercel.app/)
+[![Frontend](https://img.shields.io/badge/Frontend-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JM-M/zap-quiz)
+[![Backend](https://img.shields.io/badge/Backend-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JM-M/zap-quiz-server)
 
 </div>
 
