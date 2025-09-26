@@ -20,41 +20,41 @@ Passionate about building user-centric applications that make a difference. I sp
 
 &nbsp;
 
-## **My Projects** 🚀
+<!-- ## **My Projects** 🚀 -->
 
 <div align="center">
 
-### **Featured Projects**
+## **Featured Project**
 
 </div>
 
 <div align="center">
-  <a href="https://zap-quiz-six.vercel.app/">
-    <img src="images/zap-quiz.png" alt="Zap Quiz Screenshot" width="100%" style="border-radius: 10px; margin-bottom: 20px;">
+  <a href="https://shapi-three.vercel.app/">
+    <img src="images/shapi.png" alt="Shapi Screenshot" width="100%" style="border-radius: 10px; margin-bottom: 20px;">
   </a>
 </div>
 
 <div align="center">
 
-**[Zap Quiz](https://zap-quiz-six.vercel.app/)** - _Modern Kahoot Alternative_
+**[Shapi](https://shapi-three.vercel.app/)** - _Better Way to Work with OpenAPI/Swagger Docs_
 
-A well-designed, high-energy quiz platform that transforms learning, meetings, and events into engaging interactive experiences. Built with a modern tech stack and real-time capabilities, it provides a seamless quiz creation and participation experience.
+A powerful and intuitive tool for managing OpenAPI/Swagger specifications. Shapi provides a modern interface for importing, visualizing, and working with API documentation, making it easier for developers to understand and interact with REST APIs.
 
 **Key Features:**
 
-- 🎮 Interactive real-time quiz games
-- 📝 Easy quiz creation and management
-- 👥 Multi-player support with live scoring
-- ⚡ Real-time synchronization and updates
+- 📥 Import OpenAPI/Swagger specs from URLs or files
+- 🔍 Interactive API documentation browser
+- 🎯 Endpoint testing and exploration
+- 📝 Request/response visualization
+- 🔧 Built-in code editor with syntax highlighting
 - 🎨 Modern, responsive UI/UX design
-- 🔐 User authentication and session management
-- 📊 Live leaderboards and analytics
+- ⚡ Real-time API specification parsing
+- 📊 Comprehensive endpoint analysis
 
-**Tech Stack:** `NextJS` `TypeScript` `TailwindCSS` `NestJS` `WebSocket` `Postgres`
+**Tech Stack:** `NextJS` `TypeScript` `TailwindCSS` `React Query` `CodeMirror` `Radix UI`
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://zap-quiz-six.vercel.app/)
-[![Frontend](https://img.shields.io/badge/Frontend-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JM-M/zap-quiz)
-[![Backend](https://img.shields.io/badge/Backend-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JM-M/zap-quiz-server)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://shapi-three.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JM-M/shapi)
 
 </div>
 
@@ -153,6 +153,6 @@ A mobile-first e-commerce application built with Ionic React, featuring native-l
 
 ## **My Stack** ⚡
 
-![tRPC](https://img.shields.io/badge/tRPC-2596BE?style=for-the-badge&logo=trpc&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Zustand](https://img.shields.io/badge/zustand-%23FF6B6B.svg?style=for-the-badge&logo=zustand&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![CSS Modules](https://img.shields.io/badge/css--modules-21759B?style=for-the-badge&logo=css3&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![React Query](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white) ![Radix UI](https://img.shields.io/badge/Radix_UI-161618?style=for-the-badge&logo=radix-ui&logoColor=white) ![CodeMirror](https://img.shields.io/badge/CodeMirror-000000?style=for-the-badge&logo=codemirror&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 &nbsp;
